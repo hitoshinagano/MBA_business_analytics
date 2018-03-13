@@ -1,1 +1,1 @@
-Curso Machine Learning para Gestores
+Curso Data Science para Gestores
